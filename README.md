@@ -31,9 +31,9 @@ Interests on AI, data science, machine learning and related fields.
 
 ### And here are some of the projects I have worked with
 - :chart_with_upwards_trend: Time-series
-  - [Load disaggregation Challenge 2024: Energy use in buildings](https://) [1th place - Top 1%] 🥇
-  - [ITU AI ML in 5G Challenge 2023](https://) [3th place - Top 1%] 🥇
-  - [Enefit 2024 - Predict Energy Behavior of Prosumers](https://) [109th place - Top 4%] 🥈
+  - [Load disaggregation Challenge 2024: Unsupervised Learning](https://) [1th place - Top 1%] 🥇
+  - [ITU AI ML in 5G Challenge 2023: Forecast Regression](https://) [3th place - Top 1%] 🥇
+  - [Enefit 2024 - Predict Energy Behavior of Prosumers: Forecast Regression](https://) [109th place - Top 4%] 🥈
     
 - :framed_picture: Computer vision
   - [HMS 2024 - Harmful Brain Activity Classification](https://) [Silver medal - 78rd place - Top 3%] 🥈

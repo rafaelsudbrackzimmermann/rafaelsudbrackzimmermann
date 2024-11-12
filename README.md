@@ -45,7 +45,7 @@ Interests on AI, data science, machine learning and related fields.
   - [Robust Portfolio Execution Trading Algorithm with ML](https://) [Proven Over 10 Years on Real Trading Accounts with Over 1000 Users | MQL5, C++, Python]
   - [Tool for Creation and Analysis of Portfolio Trading](https://) [Calculating Risk-Return, Optimizing Best Portfolios, and Visual Analysis | MQL5, C++, Python]
 
-### Here is my [data science & machine learning portfolio](https://https://github.com/rafaelsudbrackzimmermann/-MachineLearning) :robot:
+### Here is my [data science & machine learning portfolio](https://github.com/rafaelsudbrackzimmermann/-MachineLearning) :robot:
 
 ---
 

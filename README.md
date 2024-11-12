@@ -42,7 +42,8 @@ Interests on AI, data science, machine learning and related fields.
   - [CAFA 5 2023 - Protein Function Prediction](https://) [186th place - Top 12%] 
   
 - :card_file_box: Quant
-  - [Robust Multimodal Trading Algorithm with ML](https://) [Proven Over 10 Years on Real Trading Accounts with Over 1000 Users | MQL5, C++, Python]
+  - [Robust Portfolio Execution Trading Algorithm with ML](https://) [Proven Over 10 Years on Real Trading Accounts with Over 1000 Users | MQL5, C++, Python]
+  - [Tool for Creation and Analysis of Portfolio Trading](https://) [Calculating Risk-Return, Optimizing Best Portfolios, and Visual Analysis | MQL5, C++, Python]
 
 ### Here is my [data science & machine learning portfolio](https://) :robot:
 

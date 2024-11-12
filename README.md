@@ -30,19 +30,19 @@ Interests on AI, data science, machine learning and related fields.
   - [Site](https://adrenalin.energy/Load-Disaggregation-Challenge-Energy-use-in-buildings) | [Slides](https://github.com/rafaelsudbrackzimmermann/1-PLACE-SOLUTION-ADRENALIN/blob/main/Submission%201/Presentation.pptx) | [Report](https://github.com/rafaelsudbrackzimmermann/1-PLACE-SOLUTION-ADRENALIN/blob/main/Submission%201/Report.docx)
 
 ### And here are some of the projects I have worked with
+- :chart_with_upwards_trend: Time-series
+  - [Load disaggregation Challenge 2024: Energy use in buildings](https://) [1th place - Top 1%]
+  - [ITU AI ML in 5G Challenge 2023](https://) [3th place - Top 1%]
+  - [Enefit 2024 - Predict Energy Behavior of Prosumers](https://) [109th place - Top 4%]
+    
 - :framed_picture: Computer vision
   - [HMS 2024 - Harmful Brain Activity Classification](https://) [Silver medal - 78rd place - Top 3%] :2rd_place_medal:
 
 - :page_facing_up: Natural language processing
   - [CAFA 5 2023 - Protein Function Prediction](https://) [186th place - Top 12%]
-
-- :chart_with_upwards_trend: Time-series
-  - [Load disaggregation Challenge 2024: Energy use in buildings](https://) [1th place - Top 1%]
-  - [ITU AI ML in 5G Challenge 2023](https://) [3th place - Top 1%]
-  - [Enefit 2024 - Predict Energy Behavior of Prosumers](https://) [109th place - Top 4%]
   
-- :card_file_box: Other structured data projects
-  - [Instant Gratification](https://) [231st place- Top 13%]
+- :card_file_box: Quant
+  - [Robust Multimodal Trading Algorithm with ML](https://) [Proven Over 10 Years on Real Trading Accounts with Over 1000 Users | MQL5, C++, Python]
 
 ### Here is my [data science & machine learning portfolio](https://) :robot:
 

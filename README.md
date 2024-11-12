@@ -20,8 +20,8 @@ Interests on AI, data science, machine learning and related fields.
 ---
 
 ### Kaggle notebooks ✍️
-- 2024-08-07: [hms-harmful-brain-activity-classification: Self-Labeling Refinement](https://www.kaggle.com/code/rafaelzimmermann1/no-ensemble-new-spectrograms-label-refine) [151 upvotes] 🥇
-- 2024-08-03: [hms-harmful-brain-activity-classification: Spectrogram Creation Using GPU](https://www.kaggle.com/code/rafaelzimmermann1/hms-spectrogram-creation-using-gpu) [110 upvotes] 🥇
+- 2024-08-07: [hms-harmful-brain-activity-classification: Self-Labeling Refinement](https://www.kaggle.com/code/rafaelzimmermann1/no-ensemble-new-spectrograms-label-refine) [Gold medal - 151 upvotes] 🥇
+- 2024-08-03: [hms-harmful-brain-activity-classification: Spectrogram Creation Using GPU](https://www.kaggle.com/code/rafaelzimmermann1/hms-spectrogram-creation-using-gpu) [Gold medal - 110 upvotes] 🥇
 
 ### Here are some talks I gave:
 - October 27, 2023: Webinar presentation of the third-place solution in the AI/ML Challenge for 5G Energy Consumption Modeling [In English]
@@ -31,9 +31,9 @@ Interests on AI, data science, machine learning and related fields.
 
 ### And here are some of the projects I have worked with
 - :chart_with_upwards_trend: Time-series
-  - [Load disaggregation Challenge 2024: Unsupervised Learning](https://) [1th place - Top 1%] 🥇
-  - [ITU AI ML in 5G Challenge 2023: Forecast Regression](https://) [3th place - Top 1%] 🥇
-  - [Enefit 2024 - Predict Energy Behavior of Prosumers: Forecast Regression](https://) [109th place - Top 4%] 🥈
+  - [Load disaggregation Challenge 2024: Unsupervised Learning](https://) [Gold medal - 1th place - Top 1%] 🥇
+  - [ITU AI ML in 5G Challenge 2023: Forecast Regression](https://) [Gold medal - 3th place - Top 1%] 🥇
+  - [Enefit 2024 - Predict Energy Behavior of Prosumers: Forecast Regression](https://) [Silver medal - 109th place - Top 4%] 🥈
     
 - :framed_picture: Computer vision
   - [HMS 2024 - Harmful Brain Activity Classification](https://) [Silver medal - 78rd place - Top 3%] 🥈

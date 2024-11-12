@@ -20,8 +20,8 @@ Interests on AI, data science, machine learning and related fields.
 ---
 
 ### Kaggle notebooks ✍️
-- 2024-08-07: [hms-harmful-brain-activity-classification: Self-Labeling Refinement](https://www.kaggle.com/code/rafaelzimmermann1/no-ensemble-new-spectrograms-label-refine) [151 upvotes Gold]
-- 2024-08-03: [hms-harmful-brain-activity-classification: Spectrogram Creation Using GPU](https://www.kaggle.com/code/rafaelzimmermann1/hms-spectrogram-creation-using-gpu) [110 upvotes Gold]
+- 2024-08-07: [hms-harmful-brain-activity-classification: Self-Labeling Refinement](https://www.kaggle.com/code/rafaelzimmermann1/no-ensemble-new-spectrograms-label-refine) [151 upvotes] 🥇
+- 2024-08-03: [hms-harmful-brain-activity-classification: Spectrogram Creation Using GPU](https://www.kaggle.com/code/rafaelzimmermann1/hms-spectrogram-creation-using-gpu) [110 upvotes] 🥇
 
 ### Here are some talks I gave:
 - October 27, 2023: Webinar presentation of the third-place solution in the AI/ML Challenge for 5G Energy Consumption Modeling [In English]

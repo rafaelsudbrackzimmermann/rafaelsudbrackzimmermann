@@ -27,7 +27,7 @@ Interests on AI, data science, machine learning and related fields.
 - October 27, 2023: Webinar presentation of the third-place solution in the AI/ML Challenge for 5G Energy Consumption Modeling [In English]
   - [Video](https://www.youtube.com/watch?v=G5CTO2ANOqk) | [Slides](https://github.com/ITU-AI-ML-in-5G-Challenge/-3-Place-Solution-5G-Energy-Consumption-Modelling-Challenge/blob/main/Hybrid%20Boosted%20Model%20with%20an%20Approach%20Inspired.pptx) | [paper](https://github.com/ITU-AI-ML-in-5G-Challenge/-3-Place-Solution-5G-Energy-Consumption-Modelling-Challenge/blob/main/ITUJ-2024-0022.R2_APR_TSB_EDIT.pdf)
 - November 03, 2024: Webinar presentation of the first-place solution in the Adrenalin Load Disaggregation Challenge [In English]
-  - [site](https://adrenalin.energy/Load-Disaggregation-Challenge-Energy-use-in-buildings) | [Slides](https://github.com/rafaelsudbrackzimmermann/1-PLACE-SOLUTION-ADRENALIN/blob/main/Submission%201/Presentation.pptx) | [report](https://github.com/rafaelsudbrackzimmermann/1-PLACE-SOLUTION-ADRENALIN/blob/main/Submission%201/Report.docx)
+  - [Site](https://adrenalin.energy/Load-Disaggregation-Challenge-Energy-use-in-buildings) | [Slides](https://github.com/rafaelsudbrackzimmermann/1-PLACE-SOLUTION-ADRENALIN/blob/main/Submission%201/Presentation.pptx) | [Report](https://github.com/rafaelsudbrackzimmermann/1-PLACE-SOLUTION-ADRENALIN/blob/main/Submission%201/Report.docx)
 
 ### And here are some of the projects I have worked with
 - :framed_picture: Computer vision

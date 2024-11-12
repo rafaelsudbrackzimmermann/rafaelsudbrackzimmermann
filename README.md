@@ -31,15 +31,15 @@ Interests on AI, data science, machine learning and related fields.
 
 ### And here are some of the projects I have worked with
 - :chart_with_upwards_trend: Time-series
-  - [Load disaggregation Challenge 2024: Energy use in buildings](https://) [1th place - Top 1%]
-  - [ITU AI ML in 5G Challenge 2023](https://) [3th place - Top 1%]
-  - [Enefit 2024 - Predict Energy Behavior of Prosumers](https://) [109th place - Top 4%]
+  - [Load disaggregation Challenge 2024: Energy use in buildings](https://) [1th place - Top 1%] 🥇
+  - [ITU AI ML in 5G Challenge 2023](https://) [3th place - Top 1%] 🥇
+  - [Enefit 2024 - Predict Energy Behavior of Prosumers](https://) [109th place - Top 4%] 🥈
     
 - :framed_picture: Computer vision
-  - [HMS 2024 - Harmful Brain Activity Classification](https://) [Silver medal - 78rd place - Top 3%] :2rd_place_medal:
+  - [HMS 2024 - Harmful Brain Activity Classification](https://) [Silver medal - 78rd place - Top 3%] 🥈
 
 - :page_facing_up: Natural language processing
-  - [CAFA 5 2023 - Protein Function Prediction](https://) [186th place - Top 12%]
+  - [CAFA 5 2023 - Protein Function Prediction](https://) [186th place - Top 12%] 
   
 - :card_file_box: Quant
   - [Robust Multimodal Trading Algorithm with ML](https://) [Proven Over 10 Years on Real Trading Accounts with Over 1000 Users | MQL5, C++, Python]

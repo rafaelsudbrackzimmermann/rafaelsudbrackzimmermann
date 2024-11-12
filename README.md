@@ -31,7 +31,7 @@ Interests on AI, data science, machine learning and related fields.
 
 ### And here are some of the projects I have worked with
 - :chart_with_upwards_trend: Time-series
-  - [Load disaggregation Challenge 2024: Unsupervised Learning](https://) [Gold medal - 1th place - Top 1%] 🥇
+  - [Load disaggregation Challenge 2024: Unsupervised Learning](https://github.com/rafaelsudbrackzimmermann/1-PLACE-SOLUTION-Adrenalin-Load-Disaggregation-Challenge/tree/main) [Gold medal - 1th place - Top 1%] 🥇
   - [ITU AI ML in 5G Challenge 2023: Forecast Regression](https://) [Gold medal - 3th place - Top 1%] 🥇
   - [Enefit 2024 - Predict Energy Behavior of Prosumers: Forecast Regression](https://) [Silver medal - 109th place - Top 4%] 🥈
     

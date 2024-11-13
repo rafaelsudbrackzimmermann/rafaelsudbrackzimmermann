@@ -34,13 +34,14 @@ Interests on AI, data science, machine learning and related fields.
   - [Load disaggregation Challenge 2024: Unsupervised Learning](https://codalab.lisn.upsaclay.fr/competitions/19659) [Gold medal - 1th place - Top 1%] 🥇
   - [ITU AI ML in 5G Challenge 2023: Forecast Regression](https://aiforgood.itu.int/event/5g-energy-consumption-modelling-ai-ml-solutions-for-climate-change/) [Gold medal - 3th place - Top 1%] 🥇
   - [Enefit 2024 - Predict Energy Behavior of Prosumers: Forecast Regression](https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers/overview) [Silver medal - 109th place - Top 4%] 🥈
-    
+  - [Adia Lab Causal Discovery Challenge - 2024](https://hub.crunchdao.com/competitions/causality-discovery) [13th place - Top 2%] 🥈
+
 - :framed_picture: Computer vision
   - [HMS 2024 - Harmful Brain Activity Classification](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification) [Silver medal - 78rd place - Top 3%] 🥈
 
 - :page_facing_up: Natural language processing
   - [CAFA 5 2023 - Protein Function Prediction](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction) [186th place - Top 12%] 
-  
+
 - :card_file_box: Quant
   - [Robust Portfolio Execution Trading Algorithm with ML](https://) [Proven Over 10 Years on Real Trading Accounts with Over 1000 Users | MQL5, C++, Python]
   - [Tool for Creation and Analysis of Portfolio Trading](https://) [Calculating Risk-Return, Optimizing Best Portfolios, and Visual Analysis | MQL5, C++, Python]

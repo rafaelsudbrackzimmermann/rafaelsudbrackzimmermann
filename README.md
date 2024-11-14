@@ -45,8 +45,8 @@ Interests on AI, data science, machine learning and related fields.
   - [Learning Agency Lab - Automated Essay Scoring](https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2) [Code Competition - NLP]
 
 - :card_file_box: Quant
-  - [Robust Portfolio Execution Trading Algorithm with ML](https://) [Proven Over 10 Years on Real Trading Accounts with Over 1000 Users | MQL5, C++, Python]
-  - [Tool for Creation and Analysis of Portfolio Trading](https://) [Calculating Risk-Return, Optimizing Best Portfolios, and Visual Analysis | MQL5, C++, Python]
+  - [Robust Portfolio Execution Trading Algorithm with ML](https://github.com/rafaelsudbrackzimmermann/-MachineLearning/blob/main/Quant.md) [Proven Over 10 Years on Real Trading Accounts with Over 1000 Users | MQL5, C++, Python]
+  - [Tool for Creation and Analysis of Portfolio Trading](https://github.com/rafaelsudbrackzimmermann/-MachineLearning/blob/main/Quant.md) [Calculating Risk-Return, Optimizing Best Portfolios, and Visual Analysis | MQL5, C++, Python]
 
 ### Here is my [data science & machine learning portfolio](https://github.com/rafaelsudbrackzimmermann/-MachineLearning) :robot:
 

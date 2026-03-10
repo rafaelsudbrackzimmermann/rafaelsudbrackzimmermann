@@ -24,6 +24,8 @@ Interests on AI, data science, machine learning and related fields.
 - 2024-08-03: [hms-harmful-brain-activity-classification: Spectrogram Creation Using GPU](https://www.kaggle.com/code/rafaelzimmermann1/hms-spectrogram-creation-using-gpu) [Gold medal - 110 upvotes] 🥇
 
 ### Here are some talks I gave:
+- February 2025: First-place solution report in the CardI-HACK Challenge [In English]
+  - [Site](https://cardi-hack-challenge.trustii.io/) | [Report](https://github.com/rafaelsudbrackzimmermann/Cardi-Hack-2025-Team-CyberBob-1st-Place/blob/main/Report.pdf)
 - October 27, 2023: Webinar presentation of the third-place solution in the AI/ML Challenge for 5G Energy Consumption Modeling [In English]
   - [Video](https://www.youtube.com/watch?v=G5CTO2ANOqk) | [Paper](https://github.com/ITU-AI-ML-in-5G-Challenge/-3-Place-Solution-5G-Energy-Consumption-Modelling-Challenge/blob/main/ITUJ-2024-0022.R2_APR_TSB_EDIT.pdf)
 - November 03, 2024: Webinar presentation of the first-place solution in the Adrenalin Load Disaggregation Challenge [In English]

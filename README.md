@@ -1,4 +1,3 @@
-
 # Hi there, I'm Rafael Zimmermann 👋
 
 ## Here is a brief introduction about myself.
@@ -23,7 +22,7 @@ Interests on AI, data science, machine learning and related fields.
 - 2024-08-07: [hms-harmful-brain-activity-classification: Self-Labeling Refinement](https://www.kaggle.com/code/rafaelzimmermann1/no-ensemble-new-spectrograms-label-refine) [Gold medal - 151 upvotes] 🥇
 - 2024-08-03: [hms-harmful-brain-activity-classification: Spectrogram Creation Using GPU](https://www.kaggle.com/code/rafaelzimmermann1/hms-spectrogram-creation-using-gpu) [Gold medal - 110 upvotes] 🥇
 
-### Here are some talks I gave:
+### Here are some talks and reports I published:
 - February 2025: First-place solution report in the CardI-HACK Challenge [In English]
   - [Site](https://cardi-hack-challenge.trustii.io/) | [Report](https://github.com/rafaelsudbrackzimmermann/Cardi-Hack-2025-Team-CyberBob-1st-Place/blob/main/Report.pdf)
 - October 27, 2023: Webinar presentation of the third-place solution in the AI/ML Challenge for 5G Energy Consumption Modeling [In English]
@@ -32,9 +31,10 @@ Interests on AI, data science, machine learning and related fields.
   - [Site](https://adrenalin.energy/Load-Disaggregation-Challenge-Energy-use-in-buildings) | [Report](https://github.com/rafaelsudbrackzimmermann/1-PLACE-SOLUTION-ADRENALIN/blob/main/Submission%201/Report.docx)
 
 ### And here are some of the projects I have worked with
+
 - :hospital: Healthcare & Genomics
-  - [CardI-HACK 2025 - Hypertrophic Cardiomyopathy Prognosis](https://github.com/rafaelsudbrackzimmermann/Cardi-Hack-2025-Team-CyberBob-1st-Place/tree/main) [1st place - Team CyberBob] 🥇
-    
+  - [CardI-HACK 2025 - Hypertrophic Cardiomyopathy Prognosis](https://cardi-hack-challenge.trustii.io/) | [GitHub Repository](https://github.com/rafaelsudbrackzimmermann/Cardi-Hack-2025-Team-CyberBob-1st-Place/tree/main) [1st place - Team CyberBob] 🥇
+
 - :chart_with_upwards_trend: Time-series
   - [Load disaggregation Challenge 2024: Unsupervised Learning](https://codalab.lisn.upsaclay.fr/competitions/19659) [Gold medal - 1th place - Top 1%] 🥇
   - [ITU AI ML in 5G Challenge 2023: Forecast Regression](https://aiforgood.itu.int/event/5g-energy-consumption-modelling-ai-ml-solutions-for-climate-change/) [Gold medal - 3th place - Top 1%] 🥇

@@ -30,6 +30,9 @@ Interests on AI, data science, machine learning and related fields.
   - [Site](https://adrenalin.energy/Load-Disaggregation-Challenge-Energy-use-in-buildings) | [Report](https://github.com/rafaelsudbrackzimmermann/1-PLACE-SOLUTION-ADRENALIN/blob/main/Submission%201/Report.docx)
 
 ### And here are some of the projects I have worked with
+- :hospital: Healthcare & Genomics
+  - [CardI-HACK 2025 - Hypertrophic Cardiomyopathy Prognosis](https://github.com/rafaelsudbrackzimmermann/Cardi-Hack-2025-Team-CyberBob-1st-Place/tree/main) [1st place - Team CyberBob] 🥇
+    
 - :chart_with_upwards_trend: Time-series
   - [Load disaggregation Challenge 2024: Unsupervised Learning](https://codalab.lisn.upsaclay.fr/competitions/19659) [Gold medal - 1th place - Top 1%] 🥇
   - [ITU AI ML in 5G Challenge 2023: Forecast Regression](https://aiforgood.itu.int/event/5g-energy-consumption-modelling-ai-ml-solutions-for-climate-change/) [Gold medal - 3th place - Top 1%] 🥇
